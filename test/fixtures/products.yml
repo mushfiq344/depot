@@ -1,0 +1,11 @@
+one:
+  title: MyString
+  description: MyText
+  image_url: lorem.jpg   # you should change the value of this property  需要修改这个属性的值
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: lorem.jpg  # you should change the value of this property  需要修改这个属性的值
+  price: 9.99
